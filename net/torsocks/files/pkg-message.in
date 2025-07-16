@@ -7,8 +7,8 @@ please edit %%PREFIX%%/etc/tor/torsocks.conf
 
 To run most programs through Tor launch them like this:
 	torsocks [any executable]
-For example you can use ssh to a some.host.com by doing:
-	torsocks ssh username@some.host.com -l <user>
+For example you can use ssh to example.com by doing:
+	torsocks ssh username@example.com
 or launch pidgin by doing:
 	torsocks pidgin
 
